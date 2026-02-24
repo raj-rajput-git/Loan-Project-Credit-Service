@@ -27,7 +27,7 @@ builder.Services.AddScoped<CreditSer>();
 
 builder.Services.AddHttpClient<ClientGetCoustomerId>(client =>
 {
-    client.BaseAddress = new Uri(builder.Configuration["UserAddress"] ?? "https://customerservice-aragh7hrhbgsbbg2.canadacentral-01.azurewebsites.net");
+    client.BaseAddress = new Uri(builder.Configuration["UserAddress"] ?? "https://customerservice-aragh7hrhbgsbbg2.canadacentral-01.azurewebsites.net/");
     client.Timeout = TimeSpan.FromMinutes(5);
 });
 
