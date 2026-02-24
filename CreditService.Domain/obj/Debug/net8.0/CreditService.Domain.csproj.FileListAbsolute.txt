@@ -1,0 +1,15 @@
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\bin\Debug\net8.0\CreditService.Domain.deps.json
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\bin\Debug\net8.0\CreditService.Domain.runtimeconfig.json
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\bin\Debug\net8.0\CreditService.Domain.dll
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\bin\Debug\net8.0\CreditService.Domain.pdb
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.csproj.AssemblyReference.cache
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.AssemblyInfoInputs.cache
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.AssemblyInfo.cs
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.sourcelink.json
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.dll
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\obj\Debug\net8.0\refint\CreditService.Domain.dll
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.pdb
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.genruntimeconfig.cache
+C:\Users\RAJ-PC\OneDrive\VS\Loan Project\Loan-project\LOS\CreditService.API\CreditService.Domain\obj\Debug\net8.0\ref\CreditService.Domain.dll
