@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreditService.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0036dad048648af1c300762d1e9ac4ea76b7a3aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72ffe3812461966e05e91f0d67436deb4d7413ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreditService.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreditService.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
